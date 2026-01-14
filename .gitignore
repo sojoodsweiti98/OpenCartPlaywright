@@ -1,0 +1,10 @@
+package.json
+package-lock.json
+playwright.config.ts
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
